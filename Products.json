@@ -2,57 +2,267 @@
   {
     "id": "76025",
     "title": "TMA-2 DJ XE",
-    "link": "https://aiaiai.audio/headphones/tma-2-dj-xe",
     "description": "Modular DJ headphones with balanced sound, high isolation PU leather earpads, and weighing only 168g.",
+    "link": "https://aiaiai.audio/headphones/tma-2-dj-xe",
+    "price": 140,
     "image_link": "https://6f836c397566f8a68572-e2de800189bc8603e0746245fbc4e3cb.ssl.cf3.rackcdn.com/product-image-t_Kftsxc.png"
   },
   {
     "id": "76035",
     "title": "TMA-2 DJ",
-    "link": "https://aiaiai.audio/headphones/tma-2-dj",
     "description": "Professional modular DJ headphones with precise and punchy bass, reinforced headband, and high isolation PU leather earpads.",
+    "link": "https://aiaiai.audio/headphones/tma-2-dj",
+    "price": 200,
     "image_link": "https://6f836c397566f8a68572-e2de800189bc8603e0746245fbc4e3cb.ssl.cf3.rackcdn.com/Aiaiai_TMA2_Preset_D-LYTDMJcf.png"
   },
   {
     "id": "76065",
     "title": "TMA-2 Studio XE",
-    "link": "https://aiaiai.audio/headphones/tma-2-studio-xe",
     "description": "Modular studio headphones with balanced sound, high isolation PU leather earpads, and weighing only 190g.",
+    "link": "https://aiaiai.audio/headphones/tma-2-studio-xe",
+    "price": 150,
     "image_link": "https://6f836c397566f8a68572-e2de800189bc8603e0746245fbc4e3cb.ssl.cf3.rackcdn.com/tma-2-studio-xe-UP3JTmhZ.png"
   },
   {
     "id": "76075",
     "title": "TMA-2 Studio",
-    "link": "https://aiaiai.audio/headphones/tma-2-studio",
     "description": "Professional modular studio headphones with highly detailed audio and enhanced comfort with Alcantara® ear cushions.",
+    "link": "https://aiaiai.audio/headphones/tma-2-studio",
+    "price": 230,
     "image_link": "https://6f836c397566f8a68572-e2de800189bc8603e0746245fbc4e3cb.ssl.cf3.rackcdn.com/tma-2-studio-owpYeor_.png"
   },
   {
     "id": "76085",
     "title": "TMA-2 Studio Wireless+",
-    "link": "https://aiaiai.audio/headphones/tma-2-studio-wireless-plus",
     "description": "Professional wireless studio headphones with ultra-low latency and lossless audio for the freedom to create wirelessly.",
+    "link": "https://aiaiai.audio/headphones/tma-2-studio-wireless-plus",
+    "price": 350,
     "image_link": "https://6f836c397566f8a68572-e2de800189bc8603e0746245fbc4e3cb.ssl.cf3.rackcdn.com/KeyVisual_3500x3500-vOSLD9gb.png"
   },
   {
     "id": "76510",
     "title": "TMA-2 Move XE Wireless",
-    "link": "https://aiaiai.audio/headphones/tma-2-move-xe-wireless",
     "description": "Premium modular Bluetooth headphones with critically acclaimed sound performance from the professional TMA-2 Studio line.",
+    "link": "https://aiaiai.audio/headphones/tma-2-move-xe-wireless",
+    "price": 180,
     "image_link": "https://6f836c397566f8a68572-e2de800189bc8603e0746245fbc4e3cb.ssl.cf3.rackcdn.com/Frame-GdAV2Nae.png"
   },
   {
     "id": "76520",
     "title": "TMA-2 Move Wireless",
-    "link": "https://aiaiai.audio/headphones/tma-2-move-wireless",
     "description": "Premium modular Bluetooth headphones with critically acclaimed sound performance from the professional TMA-2 Studio line.",
+    "link": "https://aiaiai.audio/headphones/tma-2-move-wireless",
+    "price": 230,
     "image_link": "https://6f836c397566f8a68572-e2de800189bc8603e0746245fbc4e3cb.ssl.cf3.rackcdn.com/tma-2-move-wireless--Q4dlOmfd.png"
   },
   {
-    "id": "80022",
-    "title": "UNIT-4 Wireless+",
-    "link": "https://aiaiai.audio/studio-monitors/unit-4-wireless-plus",
-    "description": "Wireless and portable studio monitors with powerful performance and accurate sound representation. Connect wirelessly for a clutter-free setup and bring your creative process anywhere.",
-    "image_link": "https://6f836c397566f8a68572-e2de800189bc8603e0746245fbc4e3cb.ssl.cf3.rackcdn.com/unit-4-wireless-plus-_h76iZed.png"
+    "id": "12001",
+    "title": "H01",
+    "description": "Slim - PU foam",
+    "link": "https://aiaiai.audio/headphones/tma-2-headbands/h01-headband",
+    "price": 25,
+    "image_link": "https://6f836c397566f8a68572-e2de800189bc8603e0746245fbc4e3cb.ssl.cf3.rackcdn.com/h01-min-1Zyqwdjs-zoom.png"
+  },
+  {
+    "id": "12002",
+    "title": "H02",
+    "description": "Rugged - High grade nylon",
+    "link": "https://aiaiai.audio/headphones/tma-2-headbands/h02-headband",
+    "price": 60,
+    "image_link": "https://6f836c397566f8a68572-e2de800189bc8603e0746245fbc4e3cb.ssl.cf3.rackcdn.com/h02-min-JoFP3ctT-zoom.png"
+  },
+  {
+    "id": "12003",
+    "title": "H03",
+    "description": "High comfort - PU leather",
+    "link": "https://aiaiai.audio/headphones/tma-2-headbands/h03-headband",
+    "price": 55,
+    "image_link": "https://6f836c397566f8a68572-e2de800189bc8603e0746245fbc4e3cb.ssl.cf3.rackcdn.com/h03-min-jrKlLHpu-zoom.png"
+  }
+
+ {
+    "id": "12004",
+    "title": "H04",
+    "description": "High comfort - Microfiber",
+    "link": "https://aiaiai.audio/headphones/tma-2-headbands/h04-headband",
+    "price": 60,
+    "image_link": "https://6f836c397566f8a68572-e2de800189bc8603e0746245fbc4e3cb.ssl.cf3.rackcdn.com/h04-min-RK-x-_wM-zoom.png"
+  },
+  {
+    "id": "12010",
+    "title": "H10",
+    "description": "Wireless+",
+    "link": "https://aiaiai.audio/h10",
+    "price": 120,
+    "image_link": "https://6f836c397566f8a68572-e2de800189bc8603e0746245fbc4e3cb.ssl.cf3.rackcdn.com/TMA-2_STUDIOWIRELESS-SSu-Z_Vy-zoom.png"
+  },
+  {
+    "id": "13002",
+    "title": "C02",
+    "description": "Coiled 1.5m with adapter",
+    "link": "https://aiaiai.audio/headphones/tma-2-cables/c02-cable",
+    "price": 25,
+    "image_link": "https://6f836c397566f8a68572-e2de800189bc8603e0746245fbc4e3cb.ssl.cf3.rackcdn.com/c02-min-N2kKQduP-zoom.png"
+  },
+  {
+    "id": "13006",
+    "title": "C05",
+    "description": "Straight 1.5m with adapter",
+    "link": "https://aiaiai.audio/headphones/tma-2-cables/c05-cable",
+    "price": 20,
+    "image_link": "https://6f836c397566f8a68572-e2de800189bc8603e0746245fbc4e3cb.ssl.cf3.rackcdn.com/product-image%20(3)-bwFhqaUc-zoom.png"
+  },
+  {
+    "id": "13015",
+    "title": "C15",
+    "description": "Straight 1.5m triad hi-fi",
+    "link": "https://aiaiai.audio/headphones/tma-2-cables/c15-cable",
+    "price": 40,
+    "image_link": "https://6f836c397566f8a68572-e2de800189bc8603e0746245fbc4e3cb.ssl.cf3.rackcdn.com/c15-min-IPrJyTPD-zoom.png"
+  },
+  {
+    "id": "13018",
+    "title": "C18",
+    "description": "Coiled 1.5m with adapter - Neon",
+    "link": "https://aiaiai.audio/headphones/tma-2-cables/c18-cable",
+    "price": 25,
+    "image_link": "https://6f836c397566f8a68572-e2de800189bc8603e0746245fbc4e3cb.ssl.cf3.rackcdn.com/Aiaiai_Cable_C18_02-UjHD9Vim-zoom.jpg"
+  },
+  {
+    "id": "13019",
+    "title": "C19",
+    "description": "Straight 1.5m with adapter - Neon",
+    "link": "https://aiaiai.audio/headphones/tma-2-cables/c19-cable",
+    "price": 20,
+    "image_link": "https://6f836c397566f8a68572-e2de800189bc8603e0746245fbc4e3cb.ssl.cf3.rackcdn.com/product-image%20(1)-jTnqCLV3-zoom.png"
+  },
+  {
+    "id": "11002",
+    "title": "E02",
+    "description": "On ear - PU leather",
+    "link": "https://aiaiai.audio/headphones/tma-2-earpads/e02-earpads",
+    "price": 35,
+    "image_link": "https://6f836c397566f8a68572-e2de800189bc8603e0746245fbc4e3cb.ssl.cf3.rackcdn.com/e02-min-nIKYuY3G-zoom.png"
+  },
+  {
+    "id": "11004",
+    "title": "E04",
+    "description": "Over ear - PU leather",
+    "link": "https://aiaiai.audio/headphones/tma-2-earpads/e04-earpads",
+    "price": 45,
+    "image_link": "https://6f836c397566f8a68572-e2de800189bc8603e0746245fbc4e3cb.ssl.cf3.rackcdn.com/e04-min-28IrhVpu-zoom.png"
+  },
+  {
+    "id": "11008",
+    "title": "E08",
+    "description": "Over ear  - Alcantara®",
+    "link": "https://aiaiai.audio/headphones/tma-2-earpads/e08-earpads",
+    "price": 55,
+    "image_link": "https://6f836c397566f8a68572-e2de800189bc8603e0746245fbc4e3cb.ssl.cf3.rackcdn.com/e05-omH_o-_D-zoom.png"
+  },
+  {
+    "id": "11010",
+    "title": "E10",
+    "description": "On ear - Repreve®",
+    "link": "https://aiaiai.audio/headphones/tma-2-earpads/e10-earpads",
+    "price": 25,
+    "image_link": "https://6f836c397566f8a68572-e2de800189bc8603e0746245fbc4e3cb.ssl.cf3.rackcdn.com/tma-2-e10-top-U-bqXas9-zoom.png"
+  }  
+  {
+    "id": "14001",
+    "title": "A01",
+    "description": "Protective pouch",
+    "link": "https://aiaiai.audio/accessories/a01",
+    "price": 25,
+    "image_link": "https://6f836c397566f8a68572-e2de800189bc8603e0746245fbc4e3cb.ssl.cf3.rackcdn.com/product-image%20(5)-BSrFFbE9-zoom.png"
+  },
+  {
+    "id": "14004",
+    "title": "A04",
+    "description": "Hardcase large",
+    "link": "https://aiaiai.audio/accessories/a04",
+    "price": 35,
+    "image_link": "https://6f836c397566f8a68572-e2de800189bc8603e0746245fbc4e3cb.ssl.cf3.rackcdn.com/Aiaiai_TMA2_Hardcase-hOsUaKQx-zoom.png"
+  },
+  {
+    "id": "24001",
+    "title": "X01",
+    "description": "Transmitter Wireless+",
+    "link": "https://aiaiai.audio/accessories/x01",
+    "price": 60,
+    "image_link": "https://6f836c397566f8a68572-e2de800189bc8603e0746245fbc4e3cb.ssl.cf3.rackcdn.com/AIAIAI_Wireless%2B_Tra-thtlEZji-zoom.png"
+  },
+  {
+    "id": "24002",
+    "title": "X02 - Transmitter",
+    "description": "W+ Link Transmitter",
+    "link": "https://aiaiai.audio/accessories/x02",
+    "price": 60,
+    "image_link": "https://6f836c397566f8a68572-e2de800189bc8603e0746245fbc4e3cb.ssl.cf3.rackcdn.com/x02-transmitter-_86XXvHw-zoom.png"
+  },
+  {
+    "id": "14100",
+    "title": "UNIT-4 Wireless+ Isolation Pads",
+    "description": "Isolation Pads (2pcs)",
+    "link": "https://aiaiai.audio/accessories/unit-4-isolation-pads",
+    "price": 35,
+    "image_link": "https://6f836c397566f8a68572-e2de800189bc8603e0746245fbc4e3cb.ssl.cf3.rackcdn.com/product-image%20(6)-ymGzUqxk-zoom.png"
+  },
+  {
+    "id": "14101",
+    "title": "UNIT-4 Wireless+ Bumper Case",
+    "description": "Protective Bumper Case",
+    "link": "https://aiaiai.audio/accessories/unit-4-bumper-case",
+    "price": 30,
+    "image_link": "https://6f836c397566f8a68572-e2de800189bc8603e0746245fbc4e3cb.ssl.cf3.rackcdn.com/unit-4-wireless-plus-oAiPrIum-zoom.png"
+  },
+  {
+    "id": "14102",
+    "title": "UNIT-4 Wireless+ Carrying Case",
+    "description": "Carrying Case",
+    "link": "https://aiaiai.audio/accessories/unit-4-carrying-case",
+    "price": 70,
+    "image_link": "https://6f836c397566f8a68572-e2de800189bc8603e0746245fbc4e3cb.ssl.cf3.rackcdn.com/unit-4-wireless-plus-t_K88DTD-zoom.png"
+  },
+  {
+    "id": "80020",
+    "title": "UNIT-4 Wireless+ Monitor",
+    "description": "Wireless Studio Monitors",
+    "link": "https://aiaiai.audio/studio-monitors/buy-unit-4-wireless-plus",
+    "price": 800,
+    "image_link": "https://images.prismic.io/aiaiai/90f90aa0-4e60-4d76-8397-07d7a783821f_unit-4-wireless-plus-obqq2TDU.png?auto=compress,format&rect=0,0,2000,2000&w=1400&h=1400"
+  },
+  {
+    "id": "05601",
+    "title": "Tracks",
+    "description": "Lightweight",
+    "link": "https://aiaiai.audio/headphones/made-for-google/tracks/black",
+    "price": 60,
+    "image_link": "https://6f836c397566f8a68572-e2de800189bc8603e0746245fbc4e3cb.ssl.cf3.rackcdn.com/tracks-black_01-min-IvA3V2S2-zoom.png"
+  },
+  {
+    "id": "10011",
+    "title": "S01 MKII",
+    "description": "Balanced sound - Bio-diaphragm",
+    "link": "https://aiaiai.audio/headphones/tma-2-speaker-units/s01-speaker-units",
+    "price": 60,
+    "image_link": "https://6f836c397566f8a68572-e2de800189bc8603e0746245fbc4e3cb.ssl.cf3.rackcdn.com/s0x-min-FRRUTbVV-h-p-7tk0jVzB-zoom.png"
+  },
+  {
+    "id": "10006",
+    "title": "S02 MKII",
+    "description": "Punchy sound - Bio-diaphragm",
+    "link": "https://aiaiai.audio/headphones/tma-2-speaker-units/s02-speaker-units",
+    "price": 90,
+    "image_link": "https://6f836c397566f8a68572-e2de800189bc8603e0746245fbc4e3cb.ssl.cf3.rackcdn.com/s0x-min-FRRUTbVV-h-p6wOc3-zoom.png"
+  },
+  {
+    "id": "10007",
+    "title": "S05 MKII",
+    "description": "Detailed sound - Bio-diaphragm",
+    "link": "https://aiaiai.audio/headphones/tma-2-speaker-units/s05-speaker-units",
+    "price": 90,
+    "image_link": "https://6f836c397566f8a68572-e2de800189bc8603e0746245fbc4e3cb.ssl.cf3.rackcdn.com/s05-mkii-speaker-uni-4Ah8W6Bq-zoom.png"
   }
 ]
+
